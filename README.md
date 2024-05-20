@@ -37,7 +37,7 @@ Thanks for dropping by!
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,cpp,cs,dotnet,visualstudio,html,css,javascript,typescript&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nodejs,react,express,angular,nest,postman,bootstrap,tailwind,nextjs,java&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs,react,express,angular,nest,postman,bootstrap,tailwind,swagger,java&theme=dark" />
         <img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,postgres,vscode,python,fastapi,django,powershell,bash&theme=dark" />
     </a>
 </div>
