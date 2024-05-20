@@ -8,7 +8,7 @@
 
 👋 Hey there!
 <br>
-I'm [Your Name], a junior web developer trained at a coding bootcamp hosted by the Technological University in June 2023. Currently, diving into Nest.js and Flutter to expand my skills. Outside of coding, you'll catch me at the gym or jamming to some tunes. Excited for the journey ahead in web and mobile development!
+I'm Diego, a junior web developer trained at a coding bootcamp hosted by the Technological University in June 2023. Currently, diving into Nest.js and Flutter to expand my skills. Outside of coding, you'll catch me at the gym or jamming to some tunes. Excited for the journey ahead in web and mobile development!
 <br>
 Thanks for dropping by!
 
