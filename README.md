@@ -13,16 +13,16 @@ I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sp
 
 <div>
     <a href="https://www.linkedin.com/in/diego-rincón-0aab7227b/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
     </a>
     <a href="https://discord.gg/.diego_03962" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" />
+        <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" />
     </a>
     <a href="https://stackoverflow.com/users/24175645/juan-diego-rincón" target="_blank">
-        <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+        <img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="Stack Overflow" />
     </a>
     <a href="https://www.instagram.com/di3ghoul/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
     </a>
 </div>
 
