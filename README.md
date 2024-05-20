@@ -14,10 +14,19 @@ I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sp
 <div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,cpp,cs,html,css,dotnet,javascript,typescript&theme=dark" />
+    </a>
+</div>
+<div align="center">
+    <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=latex,nodejs,react,express,angular,nest,postman,bootstrap,tailwind,git&theme=dark" />
+    </a>
+</div>
+<div align="center">
+    <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,postgres,vscode,python,fastapi,django,powershell,bash&theme=dark" />
     </a>
 </div>
+
 
 
 
