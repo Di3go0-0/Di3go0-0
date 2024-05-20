@@ -15,7 +15,18 @@ I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sp
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Di3go0-0&theme=radical)
 
+<div aling="center">
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=radical)
+</div>
 
 
+
+
+---
+<div align="center">
+    <h2>  My Activity </h2>
+    <br>
+    <img src="https://github.com/Di3go0-0/Di3go0-0/blob/output/github-contribution-grid-snake.svg" alt="snake contributions" />
+    <br><br><br>
+</div>
