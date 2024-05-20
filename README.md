@@ -57,6 +57,12 @@ Thanks for dropping by!
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di3go0-0&layout=compact&theme=neon" alt="top langs" />
 </div>
 
+| Repository Activity Trends | Collaborative Productivity - Last 28 days |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
+
+
 <!-- # 💫 About Me: -->
 <!-- I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sports. -->
 
