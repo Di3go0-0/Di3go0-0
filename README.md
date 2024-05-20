@@ -11,7 +11,7 @@ I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sp
 <!-- ## 🌐 Socials: -->
 <h1 align="center"> 🌐 Socials: </h1>
 
-<div>
+<div align="center">
     <a href="https://www.linkedin.com/in/diego-rincón-0aab7227b/" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
     </a>
