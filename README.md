@@ -31,6 +31,12 @@ I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sp
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=radical)
 
+
+<div align="center">
+    <img width="500" src="https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=radical" alt="top contributed" />
+</div>
+
+
 ### Lenguajes:
 <div align="center">
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di3go0-0&layout=compact&theme=neon" alt="top langs" />
