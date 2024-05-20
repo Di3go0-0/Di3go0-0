@@ -3,7 +3,14 @@
 ---
 
 
-<h1 align="center"> 💫 About Me </h1>
+<h1 align="center"><b>Hi , I'm Diego </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Full+Stack+Junior+Developer,;Systems+and+computing+engineering+student,;Active+Learner/Researcher,;Love+to+learn+new+things..<3">
+</p>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me** 
+
 
 
 👋 Hey there!
@@ -57,9 +64,6 @@ Thanks for dropping by!
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di3go0-0&layout=compact&theme=neon" alt="top langs" />
 </div>
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 
 
