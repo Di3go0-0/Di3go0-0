@@ -2,13 +2,17 @@
 
 ---
 
-<!-- # 💫 About Me: -->
+
 <h1 align="center"> 💫 About Me </h1>
 
 
-I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sports.
+👋 Hey there!
+<br>
+I'm [Your Name], a junior web developer trained at a coding bootcamp hosted by the Technological University in June 2023. Currently, diving into Nest.js and Flutter to expand my skills. Outside of coding, you'll catch me at the gym or jamming to some tunes. Excited for the journey ahead in web and mobile development!
+<br>
+Thanks for dropping by!
 
-<!-- ## 🌐 Socials: -->
+
 <h1 align="center"> 🌐 Socials: </h1>
 
 <div align="center">
@@ -26,8 +30,7 @@ I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sp
     </a>
 </div>
 
-<!-- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rincón-0aab7227b/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.diego_03962) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24175645/juan-diego-rincón) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/di3ghoul/) -->
+
 
 <h1 align="center"> 💻 Tech Stack </h1>
 
@@ -53,6 +56,15 @@ I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sp
 <div align="center">
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di3go0-0&layout=compact&theme=neon" alt="top langs" />
 </div>
+
+<!-- # 💫 About Me: -->
+<!-- I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sports. -->
+
+
+<!-- ## 🌐 Socials: -->
+<!-- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rincón-0aab7227b/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.diego_03962) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24175645/juan-diego-rincón) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/di3ghoul/) -->
+
 
 
 <!-- # 💻 Tech Stack: -->
