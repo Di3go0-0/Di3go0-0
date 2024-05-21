@@ -66,7 +66,7 @@ Thanks for dropping by!
 <details><summary><h3 align="center">🔝 Top Contributed Repo</h3></summary>
 
 <div align="center">
-    <img width="500" src="https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=radical" alt="top contributed" />
+    <img width="500" src="https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=neon" alt="top contributed" />
 </div>
 
 </details>
