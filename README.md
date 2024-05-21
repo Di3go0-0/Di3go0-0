@@ -66,10 +66,20 @@ Thanks for dropping by!
 <details><summary><h3 align="center">🔝 Top Contributed Repo</h3></summary>
 
 <div align="center">
-    <img width="500" src="https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=neon" alt="top contributed" />
+    <img width="500" src="https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=tokyonight" alt="top contributed" />
 </div>
 
 </details>
+
+## 📫 Contacto
+
+- Correo: d.rincon@utp.edu.co 
+- Linkdln: [Diego Rincón](https://www.linkedin.com/in/diego-rincón-0aab7227b/)
+- Instagram: [Di3ghoul](https://www.instagram.com/di3ghoul/)
+
+
+
+
 
 <!-- # 💫 About Me: -->
 <!-- I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sports. -->
