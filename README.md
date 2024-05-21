@@ -2,23 +2,19 @@
 
 ---
 
-
 <h1 align="center"><b>Hi , I'm Diego </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Nana+korobi+ya+oki,;Self-taught+Full+Stack+Junior+Developer,;Systems+and+computing+engineering+student,;Active+Learner/Researcher,;Love+to+learn+new+things..<3">
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  **About me** 
-
-
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 👋 Hey there!
 <br>
 I'm Diego, a junior web developer trained at a coding bootcamp hosted by the Technological University in June 2023. Currently, diving into Nest.js and Flutter to expand my skills. Outside of coding, you'll catch me at the gym or jamming to some tunes. Excited for the journey ahead in web and mobile development!
 <br>
 Thanks for dropping by!
-
 
 <h1 align="center"> 🌐 Socials: </h1>
 
@@ -37,8 +33,6 @@ Thanks for dropping by!
     </a>
 </div>
 
-
-
 <h1 align="center"> 💻 Tech Stack </h1>
 
 <div align="center">
@@ -51,25 +45,24 @@ Thanks for dropping by!
 
 ---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
-----
-	
+---
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Di3go0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Di3go0&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Di3go0&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Di3go0" height="230px"/>
+        <img alt="di3go0-0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=di3go0-0&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=di3go0-0&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="di3go0-0" height="230px"/>
+
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
   </p>
 </details>
-
-
-
 
 <h1 align="center"> 📊 GitHub Stats </h1>
 <div align="center">
@@ -86,18 +79,12 @@ Thanks for dropping by!
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di3go0-0&layout=compact&theme=neon" alt="top langs" />
 </div>
 
-
-
-
 <!-- # 💫 About Me: -->
 <!-- I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sports. -->
 
-
 <!-- ## 🌐 Socials: -->
-<!-- 
+<!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-rincón-0aab7227b/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.diego_03962) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24175645/juan-diego-rincón) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/di3ghoul/) -->
-
-
 
 <!-- # 💻 Tech Stack: -->
 <!--
