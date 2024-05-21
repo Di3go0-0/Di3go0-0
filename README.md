@@ -47,7 +47,7 @@ Thanks for dropping by!
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3 align="center">💻 GitHub Profile Stats</h3></summary>
 
 ---
 
@@ -59,25 +59,17 @@ Thanks for dropping by!
 
 <br/>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  </p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 
-<h1 align="center"> 📊 GitHub Stats </h1>
-<div align="center">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=Di3go0-0&theme=radical" alt="Github Stats" />
-</div>
 
-<h1 align="center"> 🔝 Top Contributed Repo </h1>
+<details><summary><h3 align="center">🔝 Top Contributed Repo</h3></summary>
+
 <div align="center">
     <img width="500" src="https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=radical" alt="top contributed" />
 </div>
 
-<h1 align="center"> ⌨️ Lenguajes 💻</h1>
-<div align="center">
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di3go0-0&layout=compact&theme=neon" alt="top langs" />
-</div>
+</details>
 
 <!-- # 💫 About Me: -->
 <!-- I am currently learning Nest.js and Flutter<br>I love music, jogging, playing sports. -->
@@ -102,3 +94,19 @@ Thanks for dropping by!
 ![](https://github.com/Di3go0-0/Di3go0-0/blob/output/github-contribution-grid-snake.svg)
 
  -->
+
+<!-- <h1 align="center"> 📊 GitHub Stats </h1>
+<div align="center">
+    <img width="500" src="https://github-readme-stats.vercel.app/api?username=Di3go0-0&theme=radical" alt="Github Stats" />
+</div>
+
+<h1 align="center"> ⌨️ Lenguajes 💻</h1>
+<div align="center">
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di3go0-0&layout=compact&theme=neon" alt="top langs" />
+</div> -->
+
+
+<!-- <h1 align="center"> 🔝 Top Contributed Repo </h1>
+<div align="center">
+    <img width="500" src="https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=radical" alt="top contributed" />
+</div> -->
