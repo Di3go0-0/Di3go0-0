@@ -4,7 +4,7 @@
 
 
 <h1 align="center"><b>Hi , I'm Diego </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Nana+korobi+ya+oki,;Self-taught+Full+Stack+Junior+Developer,;Systems+and+computing+engineering+student,;Active+Learner/Researcher,;Love+to+learn+new+things..<3">
 </p>
@@ -48,6 +48,22 @@ Thanks for dropping by!
         <img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,postgres,vscode,python,fastapi,django,powershell,bash&theme=dark" />
     </a>
 </div>
+
+---
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+
+----	
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Di3go0&theme=tokyonight_duo" alt="Di3go0" /></p>
+
+</details>
+
+
+
 
 <h1 align="center"> 📊 GitHub Stats </h1>
 <div align="center">
