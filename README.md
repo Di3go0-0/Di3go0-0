@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visitorsBadge"/>
 <br>
-
-<img alt="Coding" align="center" width="100%" src="https://mymodernmet.com/wp/wp-content/uploads/2019/10/nasa-black-hole-visualization-1.gif">
-
+<div id="header" align="center">
+  <img alt="Coding" align="center" width="600" height="400" src="https://mymodernmet.com/wp/wp-content/uploads/2019/10/nasa-black-hole-visualization-1.gif">
+<div/>
 ---
 
 <h1 align="center"><b>Hi , I'm Diego </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
