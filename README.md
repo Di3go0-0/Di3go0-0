@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visitorsBadge"/>
 <br>
 <div id="header" align="center">
-  <img alt="Coding" align="center" width="600" height="400" src="https://mymodernmet.com/wp/wp-content/uploads/2019/10/nasa-black-hole-visualization-1.gif">
+  <img alt="Coding" align="center" width="600" height="400" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/ash-emritte-pcscreen6.gif">
 <div/>
 ---
 
@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full+Stack+Junior+Developer,;system+and+computing+engineering+student,;Active+Learner/Researcher,;Love+to+learn+new+things..<3">
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/about_me.gif" width = 50px></picture> **About me**
 
 👋 Hey there!
 <br>
