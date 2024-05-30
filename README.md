@@ -48,7 +48,7 @@ Thanks for dropping by!
 
 ---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
+## <picture> <img src = "https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/Statistics.gif?raw=true" width = 50px> </picture> Github Stats
 
 <details><summary><h3 align="center">💻 GitHub Profile Stats</h3></summary>
 
