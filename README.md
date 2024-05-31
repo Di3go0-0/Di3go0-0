@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visitorsBadge"/>
 <br>
 <div id="header" align="center">
-  <img alt="Coding" align="center" width="600" height="400" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/ash-emritte-pcscreen6.gif">
+  <img alt="Coding" align="center" width="600vh" height="300vh" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/ash-emritte-pcscreen6.gif">
 <div/>
 ---
 
