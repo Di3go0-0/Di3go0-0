@@ -79,8 +79,8 @@
 
 </details>
 
-<div id="header" align="center">
-  <img alt="Coding" align="center" width="90vh" height="300" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/de3zz9z-ffa11131-1b4b-4e9f-8d01-aaddb1a14243.gif">
+<div align="center">
+  <img alt="Coding" align="center"  src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/de3zz9z-ffa11131-1b4b-4e9f-8d01-aaddb1a14243.gif">
 </div>
 
 
