@@ -46,25 +46,25 @@
 <div align="center">
     <h2>Programming Languages</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cpp,cs,go,java,javascript,typescript,python&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,cs,java,python,go&theme=dark" />
     </a>
 </div>
 <div align="center">
     <h2>Backend</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nest,fastapi,django,dotnet,mysql,mongodb,postgres&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nest,dotnet,fastapi,django,mysql,mongodb,postgres&theme=dark" />
     </a>
 </div>
 <div align="center">
     <h2>Frontend</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,angular,next,html,css,bootstrap,tailwind&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=html,css,react,next,angular,bootstrap,tailwind&theme=dark" />
     </a>
 </div>
 <div align="center">
     <h2>Tools & Platforms</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,visualstudio,postman,docker,git,github,vscode,bash,powershell&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=linux,bash,docker,vscode,visualstudio,postman,git,github,powershell&theme=dark" />
     </a>
 </div>
 
