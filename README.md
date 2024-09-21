@@ -89,8 +89,8 @@
    <div align="center">
 
    ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Di3go0-0&theme=discord_old_blurple)
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Di3go0&theme=discord_old_blurple&utcOffset=8)
-  </div>
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Di3go0-0&theme=discord_old_blurple&utcOffset=8)  
+   </div>
 </details>
 
 <div align="center">
