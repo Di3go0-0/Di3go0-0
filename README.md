@@ -74,20 +74,22 @@
 
 <details>
   <summary><h3 align="center">💻 GitHub Profile Stats</h3></summary>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="di3go0-0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=di3go0-0&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=di3go0-0&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="di3go0-0" height="230px"/>
-    <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+  <div align="center">
+
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Di3go0-0&theme=discord_old_blurple) 
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Di3go0-0&theme=discord_old_blurple)&nbsp;&nbsp;
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Di3go0-0&theme=discord_old_blurple) 
+  
+  </div>
 </details>
 
 <details>
   <summary><h3 align="center">🔝 Top Contributed Repo</h3></summary>
-  <div align="center">
-    <img width="500" src="https://github-contributor-stats.vercel.app/api?username=Di3go0-0&combine_all_yearly_contributions=true&theme=tokyonight" alt="top contributed" />
+
+   <div align="center">
+
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Di3go0-0&theme=discord_old_blurple)
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Di3go0&theme=discord_old_blurple&utcOffset=8)
   </div>
 </details>
 
