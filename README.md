@@ -5,7 +5,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
   <img alt="Coding" align="center" width="600vh" height="300vh" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/ash-emritte-pcscreen6.gif">
 </div>
 
----
+----
 
 <h1 align="center"><b>Hi, I'm Diego</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
