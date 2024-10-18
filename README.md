@@ -101,3 +101,5 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 - Email: d.rincon@utp.edu.co 
 - LinkedIn: [Diego Rincón](https://www.linkedin.com/in/diego-rincón-0aab7227b/)
 - Instagram: [Di3ghoul](https://www.instagram.com/di3ghoul/)
+
+- 
