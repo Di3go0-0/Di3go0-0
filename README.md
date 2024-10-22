@@ -64,7 +64,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 <div align="center">
     <h2>Tools & Platforms</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,bash,docker,vscode,visualstudio,postman,git,github,powershell&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nvim,linux,bash,docker,vscode,visualstudio,postman,git,github,powershell&theme=dark" />
     </a>
 </div>
 
