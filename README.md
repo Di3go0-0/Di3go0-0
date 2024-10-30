@@ -64,7 +64,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 <div align="center">
     <h2>Tools & Platforms</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=neovim,vim,linux,bash,docker,vscode,visualstudio,postman,git,github,powershell&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,powershell,linux,bash,neovim,vim,docker,&theme=dark" />
     </a>
 </div>
 
@@ -101,5 +101,3 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 - Email: d.rincon@utp.edu.co 
 - LinkedIn: [Diego Rincón](https://www.linkedin.com/in/diego-rincón-0aab7227b/)
 - Instagram: [Di3ghoul](https://www.instagram.com/di3ghoul/)
-
-- 
