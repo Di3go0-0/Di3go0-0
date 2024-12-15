@@ -97,8 +97,8 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
   <img alt="Coding" align="center" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/de3zz9z-ffa11131-1b4b-4e9f-8d01-aaddb1a14243.gif">
 </div>
 
-## 📫 Contact
 
+## 📫 Contact
 - Email: d.rincon@utp.edu.co 
 - LinkedIn: [Diego Rincón](https://www.linkedin.com/in/diego-rincón-0aab7227b/)
 - Instagram: [Di3ghoul](https://www.instagram.com/di3ghoul/)
