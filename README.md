@@ -2,7 +2,7 @@
 src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visitorsBadge"/>
 <br>
 <div id="header" align="center">
-  <img alt="Coding" align="center" width="600vh" height="300vh" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/0w8k67nd28971.gif">
+  <img alt="Coding" align="center" width="600vh" height="300vh" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/6171819be4c31993357d758196c75701.gif">
 </div>
 
 ----
