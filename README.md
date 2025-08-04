@@ -1,11 +1,12 @@
 <img align="right"
 src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visitorsBadge"/>
 <br>
+
 <div id="header" align="center">
   <img alt="Coding" align="center" width="600vh" height="300vh" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/6171819be4c31993357d758196c75701.gif">
 </div>
 
-----
+---
 
 <h1 align="center"><b>Hi, I'm Diego</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -14,6 +15,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 </p>
 
 ## <picture><img src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/about_me.gif" width="50px"></picture> **About Me**
+
 <div align="center" style="display: flex;">
   <div>
     👋 Hey there!
@@ -52,7 +54,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 <div align="center">
     <h2>Backend</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nest,dotnet,fastapi,django,mysql,mongodb,postgres&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,nest,dotnet,fastapi,django,mysql,mongodb,postgres,rust&theme=dark" />
     </a>
 </div>
 <div align="center">
@@ -76,10 +78,10 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
   <summary><h3 align="center">💻 GitHub Profile Stats</h3></summary>
   <div align="center">
 
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Di3go0-0&theme=discord_old_blurple) 
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Di3go0-0&theme=discord_old_blurple)&nbsp;&nbsp;
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Di3go0-0&theme=discord_old_blurple) 
-  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Di3go0-0&theme=discord_old_blurple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Di3go0-0&theme=discord_old_blurple)&nbsp;&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Di3go0-0&theme=discord_old_blurple)
+
   </div>
 </details>
 
@@ -96,9 +98,8 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
   <img alt="Coding" align="center" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/de3zz9z-ffa11131-1b4b-4e9f-8d01-aaddb1a14243.gif">
 </div>
 
-
 ## 📫 Contact
-- Email: d.rincon@utp.edu.co 
+
+- Email: d.rincon@utp.edu.co
 - LinkedIn: [Diego Rincón](https://www.linkedin.com/in/diego-rincón-0aab7227b/)
 - Instagram: [Di3ghoul](https://www.instagram.com/di3ghoul/)
-
