@@ -62,8 +62,16 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center" width="800" valign="top">
-        <br>
+      <td align="center" width="400" valign="top">
+        <p><strong>Databases</strong></p>
+        <div align="center">
+          <kbd>
+            <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" height="35" style="vertical-align: middle; margin-right: 5px; border-radius: 4px;" />
+            <img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" style="vertical-align: middle;" />
+          </kbd>
+        </div>
+      </td>
+      <td align="center" width="400" valign="top">
         <p><strong>Tools & Workflow</strong></p>
         <kbd><img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,bash,docker&theme=dark" /></kbd>
       </td>
@@ -71,7 +79,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
   </table>
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <h3>🎯 Hobbies & Interests</h3>
@@ -81,7 +89,17 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
     <tr>
       <td align="center" width="400" valign="top">
         <p><strong>Languages</strong></p>
-        <kbd><img src="https://skillicons.dev/icons?i=cpp,rust&theme=dark" /></kbd>
+        <kbd><img src="https://skillicons.dev/icons?i=cpp,rust,go&theme=dark" /></kbd>
+      </td>
+      <td align="center" width="400" valign="top">
+        <p><strong>Frameworks & Skills</strong></p>
+        <kbd><img src="https://skillicons.dev/icons?i=go,rust&theme=dark" /></kbd>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="400" valign="top">
+        <p><strong>Databases</strong></p>
+        <kbd><img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb&theme=dark" /></kbd>
       </td>
       <td align="center" width="400" valign="top">
         <p><strong>Tools & OS</strong></p>
@@ -89,9 +107,13 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
       </td>
     </tr>
   </table>
-  <br>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%">
 </div>
+
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
+</p>
+
 ---
 
 ## <picture><img src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/Statistics.gif?raw=true" width="50px"></picture> **GitHub Stats**
