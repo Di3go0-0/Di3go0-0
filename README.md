@@ -43,33 +43,55 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
     </a>
 </div>
 
+---
+
 <h1 align="center"> 💻 Tech Stack </h1>
 
 <div align="center">
-    <h2>Programming Languages</h2>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,cs,java,python,go&theme=dark" />
-    </a>
-</div>
-<div align="center">
-    <h2>Backend</h2>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nest,dotnet,fastapi,django,mysql,mongodb,postgres,rust&theme=dark" />
-    </a>
-</div>
-<div align="center">
-    <h2>Frontend</h2>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,react,next,angular,bootstrap,tailwind&theme=dark" />
-    </a>
-</div>
-<div align="center">
-    <h2>Tools & Platforms</h2>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,powershell,linux,bash,vim,neovim,docker,&theme=dark" />
-    </a>
+  <h3>🚀 Professional Development</h3>
+  <br>
+  <table align="center">
+    <tr>
+      <td align="center" width="400" valign="top">
+        <p><strong>Languages</strong></p>
+        <kbd><img src="https://skillicons.dev/icons?i=js,ts,cs&theme=dark" /></kbd>
+      </td>
+      <td align="center" width="400" valign="top">
+        <p><strong>Frameworks & Libraries</strong></p>
+        <kbd><img src="https://skillicons.dev/icons?i=nest,express,react,dotnet&theme=dark" /></kbd>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" width="800" valign="top">
+        <br>
+        <p><strong>Tools & Workflow</strong></p>
+        <kbd><img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,bash,docker&theme=dark" /></kbd>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br><br>
+
+<div align="center">
+  <h3>🎯 Hobbies & Interests</h3>
+  <p><em>Passionate about low-level programming and environment rice</em></p>
+  <br>
+  <table align="center">
+    <tr>
+      <td align="center" width="400" valign="top">
+        <p><strong>Languages</strong></p>
+        <kbd><img src="https://skillicons.dev/icons?i=cpp,rust&theme=dark" /></kbd>
+      </td>
+      <td align="center" width="400" valign="top">
+        <p><strong>Tools & OS</strong></p>
+        <kbd><img src="https://skillicons.dev/icons?i=arch,vim,neovim&theme=dark" /></kbd>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="70%">
+</div>
 ---
 
 ## <picture><img src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/Statistics.gif?raw=true" width="50px"></picture> **GitHub Stats**
