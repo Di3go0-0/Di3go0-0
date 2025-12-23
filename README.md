@@ -93,14 +93,21 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
       </td>
       <td align="center" width="400" valign="top">
         <p><strong>Frameworks & Skills</strong></p>
-        <kbd><img src="https://skillicons.dev/icons?i=go,rust&theme=dark" /></kbd>
+        <kbd>
+        <p align="left">
+          <a href="https://gin-gonic.com/"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" /></a>
+        </p>
+        </kbd>
       </td>
     </tr>
     <tr>
-      <td align="center" width="400" valign="top">
-        <p><strong>Databases</strong></p>
-        <kbd><img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb&theme=dark" /></kbd>
-      </td>
+     <td align="center" width="400" valign="top">
+  <p><strong>Databases</strong></p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <a href="https://mariadb.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="50" style="vertical-align: middle; margin-left: -10px;" />
+  </a>
+</td>
       <td align="center" width="400" valign="top">
         <p><strong>Tools & OS</strong></p>
         <kbd><img src="https://skillicons.dev/icons?i=arch,vim,neovim&theme=dark" /></kbd>
@@ -108,12 +115,6 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
     </tr>
   </table>
 </div>
-
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
-</p>
-
 ---
 
 ## <picture><img src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/Statistics.gif?raw=true" width="50px"></picture> **GitHub Stats**
