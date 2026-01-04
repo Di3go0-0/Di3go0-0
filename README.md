@@ -16,14 +16,23 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 
 ## <picture><img src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/about_me.gif" width="50px"></picture> **About Me**
 
-<div align="center" style="display: flex;">
-  <div>
-    👋 Hey there!
+  <div align="center" style="display: flex;">
+  <h1>👋 Hi, I'm Diego Rincón</h1>
+  <p>
+    <b>Software Engineering Student @ UTP | Backend Developer Specialist</b>
+  </p>
+  <p>
+    I build scalable, high-performance server-side applications with <b>Node.js, NestJS, and TypeScript</b>. 
+    My focus is on <b>Clean Architecture, Microservices</b>, and ensuring data consistency through advanced patterns like <b>SAGA</b>.
+  </p>
+  <p>
+    🚀 Currently diving deep into Distributed Systems and Cloud Infrastructure. 
     <br>
-    I'm Diego, a junior web developer trained at a coding bootcamp hosted by the Technological University of Pereira in June 2023. Outside of coding, you'll catch me at the gym or jamming to some tunes. Excited for the journey ahead in web and mobile development!
-    <br>
-    Thanks for dropping by!
-  </div>
+    🏋️ Outside of code, you'll find me hitting personal bests at the gym or exploring new music.
+  </p>
+  <p>
+    <i>"Turning complex business logic into elegant, maintainable code."</i>
+  </p>
 </div>
 
 <h1 align="center"> 🌐 Socials: </h1>
