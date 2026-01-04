@@ -11,7 +11,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 <h1 align="center"><b>Hi, I'm Diego</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full+Stack+Junior+Developer,;System+and+Computing+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+things..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Semi-Senior+Developer,;System+and+Computing+Engineering,;Active+Learner/Researcher,;Love+to+learn+new+things..<3;:)+Arch+Linux%2C+Hyprland+%26+Nvim+Enthusiast!+%3C3">
 </p>
 
 ## <picture><img src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/about_me.gif" width="50px"></picture> **About Me**
