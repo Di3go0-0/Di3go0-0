@@ -11,7 +11,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 <h1 align="center"><b>Hi, I'm Diego</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Semi-Senior+Developer,;System+and+Computing+Engineering,;Active+Learner/Researcher,;Love+to+learn+new+things..<3;:)+Arch+Linux%2C+Hyprland+%26+Nvim+Enthusiast!+%3C3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Backend+Developer,;Systems+and+Computing+Engineer,;Active+Learner/Researcher,;Love+to+learn+new+things..<3;:)+Arch+Linux%2C+Hyprland+%26+Nvim+Enthusiast!+%3C3">
 </p>
 
 ## <picture><img src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/about_me.gif" width="50px"></picture> **About Me**
@@ -19,7 +19,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
   <div align="center" style="display: flex;">
   <h1>👋 Hi, I'm Diego Rincón</h1>
   <p>
-    <b>Software Engineering Student @ UTP | Backend Developer Specialist</b>
+    <b>Systems and Computing Engineer | Backend Developer</b>
   </p>
   <p>
     I build scalable, high-performance server-side applications with <b>Node.js, NestJS, and TypeScript</b>. 
@@ -147,6 +147,13 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Di3go0-0&theme=discord_old_blurple&utcOffset=8)  
    </div>
 </details>
+
+<div align="center">
+  <h2> 🐍 My Contributions 🐍 </h2>
+  <br>
+  <img src="https://github.com/Di3go0-0/Di3go0-0/blob/output/github-contribution-grid-snake.svg" alt="snake contributions" />
+  <br><br><br>
+</div>
 
 <div align="center">
   <img alt="Coding" align="center" src="https://github.com/Di3go0-0/Di3go0-0/blob/main/gif/de3zz9z-ffa11131-1b4b-4e9f-8d01-aaddb1a14243.gif">
