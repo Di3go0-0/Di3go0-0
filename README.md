@@ -153,7 +153,7 @@ src="https://visitor-badge.laobi.icu/badge?page_id=Di3go0-0.Di3go0-0" alt="visit
 </div>
 
 <div align="center">
-  <h2> 🐍 My Contributions 🐍 </h2>
+  <h2> ✦ My Contributions ✦ </h2>
   <br>
   <img src="https://github.com/Di3go0-0/Di3go0-0/blob/output/github-contribution-grid-snake.svg" alt="snake contributions" />
   <br><br><br>
